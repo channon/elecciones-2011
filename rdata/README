@@ -1,0 +1,12 @@
+los archivos csv contienen una enumeracion
+del rango (candidaturas ordenadas de mayor a menor)
+y los concejales obtenidos por cada candidatura.
+
+el archivo R genera una grafica de ambas distribuciones,
+numero de concejales vs. rango
+
+en la que se puede apreciar claramente como se 
+extiende la cola en las elecciones de 2011.
+
+la region mas interesante esta precisamente en 
+el centro de la distribucion.
